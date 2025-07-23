@@ -1,1 +1,5 @@
-this is to create a conflict
+this is to resolve the conflict and merge
+=======
+# References
+
+* octocat 1 😈
